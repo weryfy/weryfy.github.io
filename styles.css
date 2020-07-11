@@ -1,0 +1,8 @@
+body{
+    background-image:url(img1.jpg);
+    background-size:cover;
+}
+#content {
+    font-size:120px;
+    color:#b2d2dd;
+}
