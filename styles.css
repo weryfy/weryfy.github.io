@@ -1,0 +1,30 @@
+body {
+    background: rgb(234, 242, 255);
+}
+
+#top-table {
+    background: rgb(178, 209, 255);
+    height: 55px;
+}
+
+#top-table-button {
+    transition: background 0.3s ease, color 0.2s linear;
+    width: 24.77893%;
+    text-align: center;
+    height: 55px;
+    display: inline-block;
+    font-size: 40px;
+    text-decoration: none;
+    color: white !important;
+    background-color: #599bff;
+}
+
+#top-table-button:hover {
+    color: rgb(109, 156, 218) !important;
+    background-color: rgb(181, 232, 255);
+}
+
+#icons-button {
+    width: 7.5%;
+    height: auto;
+}
