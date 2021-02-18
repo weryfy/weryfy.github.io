@@ -10,7 +10,7 @@ body {
 #top-table-button {
     border-radius: 5%;
     transition: background 0.3s ease, color 0.2s linear;
-    width: 24.77893%;
+    width: 24.6%;
     text-align: center;
     height: 55px;
     display: inline-block;
@@ -21,8 +21,8 @@ body {
 }
 
 #top-table-button:hover {
-    color: rgb(109, 156, 218) !important;
-    background-color: rgb(181, 232, 255);
+    color: #74a8ed !important;
+    background-color: #00378a;
 }
 
 #icons-button {
